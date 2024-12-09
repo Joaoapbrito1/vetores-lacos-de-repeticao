@@ -1,4 +1,4 @@
-## Programa Java: Entrada e Impressão de Array com Loops
+## Vetores e Laços de Repetição
 
 **Descrição:**
 
@@ -17,36 +17,36 @@ Este programa em Java solicita ao usuário cinco números inteiros e os armazena
 
 **Exemplo de Entrada e Saída:**
 
-Digite o primeiro número:
-10
-Digite o segundo número:
-20
-Digite o terceiro número:
-30
-Digite o quarto número:
-40
-Digite o quinto número:
+Digite o primeiro número:\
+10\
+Digite o segundo número:\
+20\
+Digite o terceiro número:\
+30\
+Digite o quarto número:\
+40\
+Digite o quinto número:\
 50
 
-Imprimindo com For:
-10
-20
-30
-40
+Imprimindo com For:\
+10\
+20\
+30\
+40\
 50
 
-Imprimindo com While:
-10
-20
-30
-40
+Imprimindo com While:\
+10\
+20\
+30\
+40\
 50
 
-Imprimindo com Do/While:
-10
-20
-30
-40
+Imprimindo com Do/While:\
+10\
+20\
+30\
+40\
 50
 
 
