@@ -20,5 +20,11 @@ public class Main {
         for (int index = 0; index < vetor.length; index++) {
             System.out.println(vetor[index]);
         }
+        System.out.println("Imprimindo com While:");
+        int i = 0;
+        while (i < vetor.length) {
+            System.out.println(vetor[i]);
+            i++;
+        }
     }
 }
