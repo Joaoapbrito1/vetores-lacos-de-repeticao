@@ -26,5 +26,11 @@ public class Main {
             System.out.println(vetor[i]);
             i++;
         }
+        System.out.println("Imprimindo com Do/While:");
+        i = 0;
+        do {
+            System.out.println(vetor[i]);
+            i++;
+        } while (i < vetor.length);
     }
 }
