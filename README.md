@@ -15,7 +15,7 @@ Este programa em Java solicita ao usuário cinco números inteiros e os armazena
 3. Compile o código usando um compilador Java (por exemplo, `javac Main.java`).
 4. Execute o programa usando `java Main`.
 
-**Exemplo de Entrada e Saída:**
+**Exemplo de Entrada**
 
 Digite o primeiro número:\
 10\
@@ -27,6 +27,8 @@ Digite o quarto número:\
 40\
 Digite o quinto número:\
 50
+
+**Exemplo de Saída:**
 
 Imprimindo com For:\
 10\
@@ -58,6 +60,17 @@ Imprimindo com Do/While:\
 **Sinta-se à vontade para modificar o código para:**
 
 * Alterar o número de elementos a serem inseridos e armazenados no array.
-* Adicionar funcionalidades adicionais, como calcular a soma ou média dos elementos.
+* Adicionar funcionalidades adicionais, como calcular a soma ou média dos elementos
 
-**Espero que este arquivo README.md seja útil!**
+---
+## Calculador de Idade
+
+Este é um programa simples em Java que calcula a idade de uma pessoa com base em sua data de nascimento. 
+O usuário insere seu nome e data de nascimento, e o programa exibe a idade calculada.
+
+## Funcionalidades
+
+- Solicita o nome do usuário.
+- Solicita a data de nascimento no formato AAAA-MM-DD.
+- Calcula a idade com base na data atual.
+- Exibe a idade do usuário junto com uma mensagem personalizada.
